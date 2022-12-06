@@ -1,1 +1,1 @@
-# vut-fit-projects
+# Několik projektů z bakalářského studia na VUT FIT
